@@ -35,3 +35,10 @@
 		encounter any issues please contact me, or post to the diy-pid-control
 		google group.
  
+ See too:
+   - https://github.com/br3ttb/Arduino-PID-Library
+   
+   - http://brettbeauregard.com/blog/2012/01/arduino-pid-autotune-library/   
+   
+   - http://brettbeauregard.com/blog/2011/04/improving-the-beginners-pid-introduction/
+
